@@ -1,0 +1,256 @@
+body{
+    background-color: #323232 !important;
+    color: #ccc !important;
+    background: #323232 !important;
+}
+td{
+    color: #ccc !important;
+}
+table{
+    border-color: #000 !important;
+}
+tr{
+    border-color: #424242 !important;
+}
+/****************************************************************/
+/**Begin Left Sidebar CSS**/
+
+.GCO3QXIBFUD .GCO3QXIBAEC, .GCO3QXIBBWI, .GCO3QXIBDWI, .GCO3QXIBOCI{
+    background-color: #000 !important;
+}
+.GCO3QXIBADC{
+    background-color: #282828 !important;
+}
+
+.GCO3QXIBMDC{
+    color: #ccc !important;
+    fill: #0A92FA !important;
+}
+/**End Left Sidebar CSS**/
+/****************************************************************/
+/**Begin Top Navbar CSS**/
+.GCO3QXIBKDC .GCO3QXIBPCC, .GCO3QXIBDLH, .GCO3QXIBOKH, .GCO3QXIBBLH, .GCO3QXIBIKH
+,.GCO3QXIBFKH, .GCO3QXIBELH, .GCO3QXIBFLH, .GCO3QXIBGKH, .GCO3QXIBHKH, .GCO3QXIBGGC,
+.GCO3QXIBBGC {
+    background-color: #000 !important;
+}
+.GCO3QXIBCPG, .GCO3QXIBPLH, .GCO3QXIBGGC, .GCO3QXIBOFC{
+    color: #ccc !important;
+}
+.GCO3QXIBOOG div svg g,
+.GCO3QXIBCQG div svg g{
+    fill: #0A92FA !important;
+}
+.GCO3QXIBKNH{
+    border: 1px solid #484848 !important;
+}
+.GCO3QXIBKDC{
+    box-shadow: 0 0 7px #000 !important;
+}
+/**End Top Navbar CSS**/
+/****************************************************************/
+/**Begin Main CSS**/
+.main-form-view-center{
+    background-color: #282828 !important;
+}
+.GCO3QXIBIBL, .GCO3QXIBCSI span.GCO3QXIBISI, .GCO3QXIBDVH,
+.GCO3QXIBI0H{
+    color: #ccc !important;
+}
+.GCO3QXIBISI div svg g{
+    fill: #ccc !important;
+}
+.GCO3QXIBISI div svg g:hover{
+    fill: #0A92FA !important;
+}
+/**This is the iframe conent**/
+tr td .cwlogo{/**NOT WORKING**/
+    background-image: 
+    url(https://i.postimg.cc/HscjXZph/Connect-Wise-Manage-Logo-master-edited.png) !important;
+    background-color: red !important;
+}
+.toolbar{/**NOT WORKING**/
+    background-color: #323232 !important;
+}
+
+iframe #document html body{/**NOT WORKING**/
+    background-color: #323232 !important;
+}
+
+div ul .GCO3QXIBDSI, .GCO3QXIBGEH, .GCO3QXIBCFH, .GCO3QXIBK1H,
+.GCO3QXIBJGH, .GCO3QXIBOAI, .GCO3QXIBC5H{
+    background-color: #000 !important;
+}
+div .GCO3QXIBLPG .GCO3QXIBBPG{
+    background: #000 !important;
+}
+.GCO3QXIBM, .GCO3QXIBOVF{
+    background-color: #202020 !important;
+}
+.GCO3QXIBKHI, .GCO3QXIBOPF{
+    background: #202020 !important;
+}
+.GCO3QXIBLHI, .GCO3QXIBPPF{
+    background: #262626 !important;
+}
+ul .GCO3QXIBLPI, .GCO3QXIBBAI, .GCO3QXIBOHH, .GCO3QXIBPHH{
+    background: #000 !important;
+}
+.GCO3QXIBPVF{
+    background-color: #262626 !important;
+}
+.GCO3QXIBOAL svg g, .GCO3QXIBCOI svg g{
+    fill: #ccc !important;
+}
+ div .GCO3QXIBPRD{
+    color: #969696 !important;
+}
+.GCO3QXIBDUH, .GCO3QXIBDBI, .GCO3QXIBNII, .GCO3QXIBKII, 
+.GCO3QXIBBSH, .GCO3QXIBOBI, .GCO3QXIBGVH{
+    background-color: #000 !important;
+}
+.GCO3QXIBAUH, .GCO3QXIBDBI, .multilineClickable, .form-label, .GCO3QXIBANI{
+    color: #ccc !important;
+}
+.GCO3QXIBCUH div div div svg g, .GCO3QXIBCUH .cwsvg svg g,
+.GCO3QXIBETD .cwsvg svg g, .GCO3QXIBPNI .cwsvg svg g, .GCO3QXIBB5H div svg g
+{
+    fill: #ccc !important;
+}
+.GCO3QXIBJSI .GCO3QXIBCSI, .GCO3QXIBKHI .GCO3QXIBIGI{
+    border-bottom: 1px solid #424242 !important;
+}
+ul .GCO3QXIBDSI{
+    border-bottom: 2px solid #000 !important;
+}
+ul .GCO3QXIBDSI{
+    border-top: 1px solid #424242 !important;
+    border-left: 1px solid #424242 !important;
+    border-right: 1px solid #424242 !important;
+}
+.gwt-InlineHTML{
+    color: #026ccf !important;
+}
+tbody .GCO3QXIBNCI, ul .GCO3QXIBLPI{
+    border: 1px solid #424242 !important;
+}
+.GCO3QXIBHCI{
+    border-bottom: none !important;
+}
+ul .GCO3QXIBLPI{
+    border-bottom: 2px solid #000 !important;
+}
+tr .GCO3QXIBJUF, .GCO3QXIBKPI{
+    border-bottom: 1px solid #424242 !important;
+}
+.GCO3QXIBCFH, .GCO3QXIBNII, .GCO3QXIBJGH{
+    border: none !important;
+}
+.GCO3QXIBMII, .GCO3QXIBKII{
+    border-color: #026ccf !important;
+    border-left: none !important;
+}
+.GCO3QXIBLII{
+    border-color: #026ccf !important;
+}
+.GCO3QXIBKII{
+    border-right: none !important;
+}
+.GCO3QXIBB0M .GCO3QXIBENI .mm_label, .GCO3QXIBMUG{
+    color: #000 !important;
+}
+.GCO3QXIBCNI{
+    background-color: #5C7829 !important;
+}
+
+.form-container, .GCO3QXIBEIH{
+    background-color: #000 !important;
+}
+#manageLogo {
+    content:url(https://i.postimg.cc/HscjXZph/Connect-Wise-Manage-Logo-master-edited.png) !important;
+}
+.form-container{
+    box-shadow: 0 0 10px #000 !important;
+    border: 1px solid #424242 !important;
+}
+.loginTextBox{
+    border-bottom: 1px solid #ccc !important;
+    background-color: #000 !important;
+    color: #ccc !important;
+}
+.checkboxLabel, .GCO3QXIBKPI span.GCO3QXIBAQI,
+.GCO3QXIBOOI, .GCO3QXIBFAI, .GCO3QXIBG3G, .GCO3QXIBJLI,
+.GCO3QXIBKXG, .GCO3QXIBDVF{
+    color: #ccc !important;
+}
+.GCO3QXIBPKG{
+    background-color: #000 !important;
+    margin-top: 10px;
+
+}
+.GCO3QXIBPKG div svg g,
+.GCO3QXIBFIH table tbody tr td div svg g{
+    fill: #ccc !important;
+}
+.GCO3QXIBFPD{
+    background: #484848 !important;
+}
+.GCO3QXIBAIF{
+    border-top: none !important;
+}
+.GCO3QXIBMII .GCO3QXIBIBI .GCO3QXIBOBI:focus{
+    border-color: #026ccf !important;
+}
+.gwt-cal .gwt-calendar-header{
+    /**table header**/
+    background-color: #000 !important;
+}
+.gwt-cal .left-panel, .GCO3QXIBEJH, .GCO3QXIBPIH,
+.GCO3QXIBCJH, .GCO3QXIBL2J, .GCO3QXIBLIH, .GCO3QXIBMIH,
+.GCO3QXIBKIH, .GCO3QXIBDJH, .GCO3QXIBFJH, .GCO3QXIBGJH{
+    /**left panel**/
+    background-color: #000 !important;
+}
+.gwt-cal .time-interval .non-working{
+    /**non-working cells**/
+    background-color: #202020 !important;
+}
+.gwt-cal .time-interval .working{
+    /**non-working cells**/
+    background-color: #323232 !important;
+}
+.gwt-cal, .GCO3QXIBEJH, .GCO3QXIBGJH{
+    border: 1px solid #424242 !important;
+}
+.GCO3QXIBCJH{
+    border-left: 1px solid #424242 !important;
+}
+.GCO3QXIBPIH{
+    border-right: 1px solid #424242 !important;
+}
+.gwt-cal .left-border, .GCO3QXIBCJH{
+    border-right: 1px solid #424242 !important;
+}
+.gwt-cal .day-separator, .gwt-calendar-header .day-cell, 
+.gwt-calendar-header .day-info-cell, 
+.gwt-calendar-header .multi-day-cell,
+.GCO3QXIBPIH{
+    border-left: 1px solid #424242 !important;
+}
+.GCO3QXIBNIH, .GCO3QXIBJLI, .GCO3QXIBGJH{
+    background: #000 !important;
+}
+.GCO3QXIBEIH{
+    color: #026ccf !important;
+}
+.gwt-cal .hour-label, .gwt-cal .time-interval-0, .gwt-cal .time-interval-2{
+    border-top: 1px solid #424242 !important;
+}
+.gwt-cal .time-interval{
+    background-color: #424242 !important;
+}
+.GCO3QXIBLIH{
+    border-right: 1px solid #424242 !important;
+    border-left: 1px solid #424242 !important;
+    border-bottom: 1px solid #424242 !important;
+}

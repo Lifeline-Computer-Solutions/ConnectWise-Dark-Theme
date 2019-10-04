@@ -1,0 +1,41 @@
+{
+    "name": "ConnectWise Dark",
+    "version": "1.0",
+    "description": "Dark Theme for ConnectWise Manager.",
+    "permissions": ["activeTab","declarativeContent","storage"],
+    "content_scripts":
+    [
+        {
+           "matches":    ["https://support.lifelinecomputersolutions.com/*"],
+           "css":        ["dark.css"],
+           "js":         ["scripts.js"],
+           "run_at": "document_end"
+        }
+    ],
+    "background":
+    {
+        "scripts": ["background.js", "hot-reload.js", "scripts.js"],
+        "persistent": false
+    },
+    "page_action":
+    {
+      "default_popup": "popup.html",
+      "default_icon":
+      {
+        "16": "images/ConnectWise16.png",
+        "32": "images/ConnectWise32.png",
+        "48": "images/ConnectWise48.png",
+        "128": "images/ConnectWise128.png"
+      },
+      "icons":
+      {
+          "16": "images/ConnectWise.png",
+          "32": "images/ConnectWise32.png",
+          "48": "images/ConnectWise48.png",
+          "128": "images/ConnectWise128.png"
+      }
+    },
+
+    "options_page": "options.html",
+    "manifest_version": 2
+}
